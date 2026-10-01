@@ -1,6 +1,7 @@
 # prova1sistemasdistribuidos
 
 Nome: Gustavo Henrique da Silva
+
 RA: aba44b8a1c82834c9a92
 
 Uma empresa precisa informar o saldo de um produto após uma venda. O cliente deve solicitar ao servidor o cálculo do estoque restante quando havia 15 unidades e foram vendidas 4.
